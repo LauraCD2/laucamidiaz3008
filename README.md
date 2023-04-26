@@ -6,7 +6,7 @@
 - 👀 I’m studying Systems Engineering at UIS
 - 📫 How to reach me: lauracamiladiazdelgado@gmail.com / laura2220100@correo.uis.edu.co / +573004723600
 
-          ![](https://komarev.com/ghpvc/?username=laucamidiaz3008&style=plastic&label=My-Fans&color=ff69b4)
+     ![](https://komarev.com/ghpvc/?username=laucamidiaz3008&style=plastic&label=My-Fans&color=ff69b4)
 
 <!---
 laucamidiaz3008/laucamidiaz3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
