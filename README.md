@@ -3,7 +3,7 @@
 - I believe that coding is an art 🎨, and like any good artist 🎭, I'm always seeking new ways to improve my craft. So when I'm not slinging code, you can find me tinkering with new ideas 💡, participating in hackathons 👩🏻‍💻, and collaborating with other developers to bring our dreams to life.
 - Let's create something amazing 🌟 together and bring some much-needed fun to the world of coding 🎉!
 
-- 👀 I’m studying Computer Science - Engineer at UIS
+- 👀 I’m studying Systems Engineering at UIS
 - 📫 How to reach me: lauracamiladiazdelgado@gmail.com / laura2220100@correo.uis.edu.co / +573004723600
 
 
