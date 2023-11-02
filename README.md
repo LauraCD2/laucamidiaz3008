@@ -1,5 +1,3 @@
-![texto cualquiera por si no carga la imagen]([url completa de la imagen](https://github.com/laucamidiaz3008/laucamidiaz3008/blob/main/1.png))
-
 - 👋 Hi, it's Camila 👩🏻‍💻 a Professional procrastinator-turned-developer. 
 - When I'm not putting off work, I'm 🪄 casting spells to bring code to life. 
 - English and Spanish, and French. 
